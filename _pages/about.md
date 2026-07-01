@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: 物来顺应，未来不迎，当时不杂，既过不恋。
+subtitle: Take what comes, don’t court the future, keep the present clear, and let the past go.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>163 Xianlin Road, Qixia District</p>
-    <p>Nanjing, China</p>
+    <p>Nanjing University</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

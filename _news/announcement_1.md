@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2026-7-1 15:59:00-0400
+date: 2026-07-01 05:59:00+0800
 inline: true
 related_posts: false
 ---
 
-My academic website has successfully deployed on Github Page.
+My personal website is now officially live. Welcome to visit and connect.
 
