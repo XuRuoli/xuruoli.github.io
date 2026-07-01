@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-My academic website successfully deployed on Github Page.
+My academic website has successfully deployed on Github Page.
 
