@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 物来顺应，未来不迎，当时不杂，既过不恋。
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Master's student at Nanjing University, with a strong interest in machine learning and data science. I have experience in developing machine learning models and applying them to real-world problems. I am passionate about using technology to solve complex challenges and improve people's lives.
+I am a Master's student at Nanjing University, with a strong interest in machine learning and data science. I have experience in developing machine learning models and applying them to real-world problems. I am passionate about using technology to solve complex challenges and improve people's lives. If you are interested in collaborating on research projects or have any questions, feel free to reach out to me through my social media links below.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
